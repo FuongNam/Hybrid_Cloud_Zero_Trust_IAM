@@ -76,4 +76,4 @@ Keycloak (IdP)
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/congkhanhneee/Zero_Trust_IAM.git
+git clone https://github.com/FuongNam/Hybrid_Cloud_Zero_Trust_IAM.git

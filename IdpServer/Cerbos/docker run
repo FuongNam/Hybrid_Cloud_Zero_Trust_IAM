@@ -1,0 +1,6 @@
+docker run -d \
+  --name cerbos \
+  -p 3592:3592 \
+  -v $(pwd)/policies:/policies \
+  ghcr.io/cerbos/cerbos:latest server \
+    --config=/policies/.cerbos.yaml
